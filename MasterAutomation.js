@@ -2,7 +2,7 @@
 window.TrelloPowerUp.initialize({
   'board-buttons': function(t, options){
     return [{
-      icon: 'https://example.com/icon.png',
+      icon: 'https://cdn.iconscout.com/icon/premium/png-256-thumb/robot-head-1623909-1374685.png?f=webp',
       text: 'Enable All Automations',
       callback: function(t){
         // Enable all available automations for the current board
